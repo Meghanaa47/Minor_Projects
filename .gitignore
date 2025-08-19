@@ -1,0 +1,13 @@
+# Eclipse/Java
+**/bin/
+**/*.class
+**/.classpath
+**/.project
+**/.settings/
+**/*.log
+
+# Web-specific
+**/build/
+**/out/
+**/*.war
+**/*.jar
